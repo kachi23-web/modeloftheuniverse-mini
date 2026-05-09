@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   title: "Model of the Universe 2026 — Coming Soon",
   description:
     "The Model of the Universe 2026 competition is launching soon.",
+  icons: {
+    icon: "/logo-modelofuniverse.ico",
+  },
 };
 
 export default function RootLayout({
