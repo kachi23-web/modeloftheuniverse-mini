@@ -18,7 +18,7 @@ export default function HeroSection() {
 
         {/* Brand name */}
         <h1 className="font-playfair text-4xl md:text-7xl font-bold text-foreground leading-tight">
-          Model of the Universe 2026
+          Model of the Universe 2027
         </h1>
 
         {/* Coming Soon */}
