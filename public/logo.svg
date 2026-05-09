@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
+  <rect width="320" height="320" fill="#0a0a0a"/>
+  <ellipse cx="160" cy="140" rx="70" ry="90" fill="hsl(12,88%,65%)" opacity="0.9"/>
+  <ellipse cx="160" cy="100" rx="30" ry="35" fill="hsl(12,88%,75%)"/>
+  <text x="160" y="270" text-anchor="middle" font-family="Georgia,serif" font-size="14" fill="hsl(12,88%,65%)" letter-spacing="2">MODEL OF THE UNIVERSE</text>
+  <text x="160" y="292" text-anchor="middle" font-family="Georgia,serif" font-size="12" fill="hsl(35,85%,70%)" letter-spacing="1">2026</text>
+</svg>
